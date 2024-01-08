@@ -1,0 +1,14 @@
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PracticeQuestions\bin\Debug\net7.0\PracticeQuestions.exe
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PracticeQuestions\bin\Debug\net7.0\PracticeQuestions.deps.json
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PracticeQuestions\bin\Debug\net7.0\PracticeQuestions.runtimeconfig.json
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PracticeQuestions\bin\Debug\net7.0\PracticeQuestions.dll
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PracticeQuestions\bin\Debug\net7.0\PracticeQuestions.pdb
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PracticeQuestions\obj\Debug\net7.0\PracticeQuestions.GeneratedMSBuildEditorConfig.editorconfig
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PracticeQuestions\obj\Debug\net7.0\PracticeQuestions.AssemblyInfoInputs.cache
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PracticeQuestions\obj\Debug\net7.0\PracticeQuestions.AssemblyInfo.cs
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PracticeQuestions\obj\Debug\net7.0\PracticeQuestions.csproj.CoreCompileInputs.cache
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PracticeQuestions\obj\Debug\net7.0\PracticeQuestions.dll
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PracticeQuestions\obj\Debug\net7.0\refint\PracticeQuestions.dll
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PracticeQuestions\obj\Debug\net7.0\PracticeQuestions.pdb
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PracticeQuestions\obj\Debug\net7.0\PracticeQuestions.genruntimeconfig.cache
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PracticeQuestions\obj\Debug\net7.0\ref\PracticeQuestions.dll
