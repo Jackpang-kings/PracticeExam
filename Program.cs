@@ -288,6 +288,19 @@ namespace HexBaronCS
             Console.WriteLine();
             Console.Write("Enter your choice: ");
         }
+    
+        public static void SaveGame(Player player1,Player player2,HexGrid grid){
+            List<string> tiles = grid.Tiles[];
+            string filename = Console.ReadLine();
+            StreamWriter sw = new StreamWriter(filename);
+            sw.WriteLine($"{player1.GetName},{player1.GetVPs},{player1.GetFuel},{player1.GetLumber},{player1.GetPiecesInSupply}");
+            sw.WriteLine($"{player2.GetName},{player2.GetVPs},{player2.GetFuel},{player2.GetLumber},{player2.GetPiecesInSupply}");
+            sw.WriteLine($"{grid.GetSize()}");
+            foreach(var t in tiles)
+            {
+                sw.Write($"{t.GetTerrain()}");
+            }
+        }
     }
 
     class Piece
